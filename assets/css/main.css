@@ -935,6 +935,11 @@ section,
 }
 
 .about .personal-info .info-item .value {
+  font-weight: 600;
+  color: var(--heading-color);
+}
+
+.value1 {
   word-break: break-all;
   font-weight: 600;
   color: var(--heading-color);
